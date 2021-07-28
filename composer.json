@@ -1,6 +1,6 @@
 {
-  "name": "gregoriohc/laravel-trello",
-  "description": "A Laravel wrapper and facade package for the Trello API",
+  "name": "showheroes/gregoriohc-laravel-trello",
+  "description": "A Laravel wrapper and facade package for the Trello API. Forked from https://github.com/gregoriohc/laravel-trello",
   "keywords": ["laravel", "package", "facade", "trello", "api"],
   "homepage": "https://github.com/gregoriohc/laravel-trello",
   "license": "MIT",
@@ -12,8 +12,8 @@
   ],
   "require": {
     "php": ">=5.4.0",
-    "illuminate/config": "~5",
-    "illuminate/support": "~5",
+    "illuminate/config": "^5.0 || ^6.0 || ^7.0 || ^8.0",
+    "illuminate/support": "^5.0 || ^6.0 || ^7.0 || ^8.0",
     "cdaguerre/php-trello-api": "@dev"
   },
   "require-dev": {

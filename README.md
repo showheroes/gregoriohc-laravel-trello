@@ -1,3 +1,6 @@
+# ShowHeroes
+- v0.4.0 Forked and updated to support Laravel 6, 7, 8
+
 # Laravel 5 Trello API wrapper
 
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/gregoriohc/laravel-trello/badges/quality-score.png?b=master)](https://scrutinizer-ci.com/g/gregoriohc/laravel-trello/?branch=master)
